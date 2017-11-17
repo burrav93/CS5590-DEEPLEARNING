@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\bvkka\\Desktop\\New folder\\trained_model_1510888434\\checkpoints\\model-800"
+all_model_checkpoint_paths: "C:\\Users\\bvkka\\Desktop\\New folder\\trained_model_1510888434\\checkpoints\\model-400"
+all_model_checkpoint_paths: "C:\\Users\\bvkka\\Desktop\\New folder\\trained_model_1510888434\\checkpoints\\model-500"
+all_model_checkpoint_paths: "C:\\Users\\bvkka\\Desktop\\New folder\\trained_model_1510888434\\checkpoints\\model-600"
+all_model_checkpoint_paths: "C:\\Users\\bvkka\\Desktop\\New folder\\trained_model_1510888434\\checkpoints\\model-700"
+all_model_checkpoint_paths: "C:\\Users\\bvkka\\Desktop\\New folder\\trained_model_1510888434\\checkpoints\\model-800"
